@@ -1,2 +1,3 @@
 this is the new line of text that i am creating
 new addition to your line of text
+this is the conflict
